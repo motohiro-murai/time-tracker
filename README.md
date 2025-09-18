@@ -11,3 +11,10 @@ Pythonで作成した作業時間記録アプリ（CLI + Tkinter GUI対応
 python time_tracker.py start 勉強
 python time_tracker.py stop
 python time_tracker.py log --csv data/log_all.csv
+
+## GUI の使い方
+
+以下のコマンドでGUIを起動できます。
+
+```bash
+python time_tracker_gui.py
